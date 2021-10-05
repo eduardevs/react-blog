@@ -1,0 +1,10 @@
+{
+  "blogs": [
+    {
+      "title": "REACT",
+      "body": "Librairie de JS pour développer d'applications d'une seule page (SPA - single page applications)",
+      "author": "Eduardo",
+      "id": 13
+    }
+  ]
+}
